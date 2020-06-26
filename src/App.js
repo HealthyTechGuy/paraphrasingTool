@@ -83,9 +83,7 @@ export default function ParaphrasingTool() {
           {' Rewrite text using machine learning.'}
           {''}
         </Typography>
-        <Typography variant="body1" style={{ fontStyle: 'italic' }}>"If it was ethical it wouldn't be fun" -
-         <Link color="inherit" href="https://rob-oconnor.com"> someone
-         </Link>
+        <Typography variant="body1" style={{ fontStyle: 'italic' }}>"If it was ethical it wouldn't be fun" - someone
         </Typography>
 
         <div className={classes.gridRoot}>
