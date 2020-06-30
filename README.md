@@ -2,7 +2,7 @@
   
 ## I would recomend reading the Medium blog post I wrote that explains how I created this application and how to use it, you can find that [here](https://medium.com/@healthytechguy)
 
-For buisness enquires and partnerships you can contact me and find more about me [here](https://rob-oconnor.com/) 
+For buisness enquires and partnerships you can get in touch with me [here](https://rob-oconnor.com/) 
 
 ## Installation
 
